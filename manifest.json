@@ -1,10 +1,10 @@
 {
-	"id": "disable-cursor-blink",
-	"name": "Disable cursor blink",
-	"version": "1.0.1",
+	"id": "dynamic-cursor-size",
+	"name": "Dynamic Cursor Size",
+	"version": "0.0.1",
 	"minAppVersion": "0.9.12",
-	"description": "Make the cursor stop blinking.",
-	"author": "xnhp",
-	"authorUrl": "https://github.com/xnhp",
-	"isDesktopOnly": false
+	"description": "Adjust the cursor size based on the current location rather than the max height of the entire line.",
+	"author": "nothingislost",
+	"authorUrl": "https://github.com/nothingislost",
+	"isDesktopOnly": true
 }

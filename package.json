@@ -1,20 +1,20 @@
 {
-  "name": "cursor-blink-plugin",
+  "name": "cursor-size-plugin",
   "version": "0.9.7",
-  "description": "Disables cursor blink",
+  "description": "Adjusts cursor size based on the current location rather than the max height of the entire line",
   "main": "main.js",
   "scripts": {
     "dev": "rollup --config rollup.config.js -w",
     "build": "rollup --config rollup.config.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "xnhp",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.1.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@rollup/plugin-typescript": "^6.0.0",
-    "@types/node": "^14.14.2",
+    "@types/node": "^14.17.9",
     "obsidian": "https://github.com/obsidianmd/obsidian-api/tarball/master",
     "rollup": "^2.32.1",
     "tslib": "^2.0.3",
